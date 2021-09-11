@@ -2,7 +2,7 @@
 - 👀 I’m interested in C+ feel intersting!
 - 🌱 I’m currently learning C+
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...this is my Email : 18211660025@139.com
+- 📫 How to reach me ...
 
 <!---
 AdmierC/AdmierC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
